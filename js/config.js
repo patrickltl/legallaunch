@@ -8,7 +8,7 @@
 
 window.SITE_CONFIG = {
   brandName: "LegalLaunch",
-  price: "$29",
+  price: "HK$228",
   priceTier2: "$49",
   // Paste your Stripe Payment Link here, e.g. "https://buy.stripe.com/xxxxxxx"
   // While it is the placeholder, the buy buttons will explain that checkout is not configured yet.
