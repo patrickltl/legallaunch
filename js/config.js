@@ -12,6 +12,6 @@ window.SITE_CONFIG = {
   priceTier2: "$49",
   // Paste your Stripe Payment Link here, e.g. "https://buy.stripe.com/xxxxxxx"
   // While it is the placeholder, the buy buttons will explain that checkout is not configured yet.
-  stripePaymentLink: "PASTE_YOUR_STRIPE_PAYMENT_LINK_HERE",
+  stripePaymentLink: "https://buy.stripe.com/bJe8wP5oE9iGeJ53gY7Vm03",
   supportEmail: "" // optional: if empty, the app only shows your site's own contact email
 };
